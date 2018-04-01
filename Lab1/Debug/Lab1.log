@@ -1,0 +1,9 @@
+﻿  Lab1.cpp
+f:\цыганова\lab1\lab1\lab1.cpp(78): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+f:\цыганова\lab1\lab1\lab1.cpp(84): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+f:\цыганова\lab1\lab1\lab1.cpp(51): warning C4101: buf: неиспользованная локальная переменная
+f:\цыганова\lab1\lab1\lab1.cpp(51): warning C4101: j: неиспользованная локальная переменная
+f:\цыганова\lab1\lab1\lab1.cpp(148): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+f:\цыганова\lab1\lab1\lab1.cpp(160): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+f:\цыганова\lab1\lab1\lab1.cpp(179): warning C4101: switcher2: неиспользованная локальная переменная
+  Lab1.vcxproj -> F:\Цыганова\Lab1\Debug\Lab1.exe
